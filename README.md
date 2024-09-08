@@ -15,7 +15,7 @@ A gente usou um monte de tecnologias legais para criar essa experiência incrív
 * **JavaScript:** O cérebro da operação! É ele quem faz toda a busca, filtra os dados e monta a página com os resultados. É tipo um detetive investigando um caso, só que muito mais rápido e eficiente.
 
 **Quer brincar com esse projeto?**
-
+0. **Acesse o link:** singers.vercel.app ou se preferir siga os próximos passos.
 1. **Clone o repositório:** Use o Git para baixar o código para o seu computador.
 2. **Abra o index.html:** Use um navegador (Chrome, Firefox, Edge...) para abrir o arquivo index.html.
 3. **Comece a pesquisar:** Digite o nome do seu artista favorito no campo de pesquisa e veja a magia acontecer!
